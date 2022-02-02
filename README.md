@@ -32,7 +32,7 @@
 ### 1. Clone repo
 
 ```
-$ git clone 
+$ git clone https://github.com/shubham9672/Node-js-assignment.git
 $ cd ecommerce
 ```
 ### 2. Setup & start project
